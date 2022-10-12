@@ -30,15 +30,6 @@
 				"InterstitialAdKey": "Interstitial_Android",
 				"RewardedAdKey": "Rewarded_Android",
 				"NativeAdKey": ""
-			},
-			{
-				"MonetizationId": 2,
-				"MonetizerName": "AdMob",
-				"AdAppKey": "AdMobAdMobAdMob",
-				"BannerAdKey": "AdMobAdMobAdMob",
-				"InterstitialAdKey": "AdMobAdMobAdMob",
-				"RewardedAdKey": "AdMobAdMobAdMob",
-				"NativeAdKey": "AdMobAdMobAdMob"
 			}
         ]
     },
