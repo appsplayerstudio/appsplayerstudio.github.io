@@ -11,7 +11,7 @@
                 "BannerAdKey": "505668321150529_505668831150478",
                 "InterstitialAdKey": "505668321150529_505668911150470",
                 "RewardedAdKey": "505668321150529_505669001150461",
-                "NativeAdKey": ""
+                "NativeAdKey": "505668321150529_648263920224301"
             },
             {
                 "MonetizationId": 6,
@@ -21,7 +21,16 @@
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
-            }
+            },
+            {
+				"MonetizationId": 5,
+				"MonetizerName": "UnityAds",
+				"AdAppKey": "4859841",
+				"BannerAdKey": "Banner_Android",
+				"InterstitialAdKey": "Interstitial_Android",
+				"RewardedAdKey": "Rewarded_Android",
+				"NativeAdKey": ""
+			}
         ]
     },
     "Message": "Data loaded."
